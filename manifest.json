@@ -1,0 +1,23 @@
+{
+    "short_name": "XO",
+    "name": "Tic Tac Toe",
+    "icons": [
+    {
+    "src": "resources/icon_512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any maskable"
+    },
+    {
+    "src": "resources/icon_192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "any maskable"
+    }
+    ],
+    "start_url": "./index.html",
+    "background_color": "#AFF5ED",
+    "theme_color": "#FFC500",
+    "display": "fullscreen",
+    "lang" : "pl-PL"
+   }
